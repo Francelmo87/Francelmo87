@@ -30,5 +30,5 @@ Python • Django • Django REST Framework • PostgreSQL • Git • Linux
 
 ## 📫 Contato
 
-LinkedIn:
-Email:
+LinkedIn: www.linkedin.com/in/francelmo87
+Email: francelmo87@hotmail.com
