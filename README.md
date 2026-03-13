@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Francelmo Sousa
 
-<!--
-**Francelmo87/Francelmo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Python Backend** com foco em **Django e APIs REST**.
 
-Here are some ideas to get you started:
+Tenho experiência no desenvolvimento de aplicações completas utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Django
+* Django REST Framework
+* PostgreSQL
+* APIs REST
+* Automação com Python
+
+## 🚀 Projetos em destaque
+
+🔹 **Sistema de Gestão de Contratos**
+Aplicação web para controle de contratos públicos baseada na Lei 14.133.
+Stack: Django, PostgreSQL
+
+🔹 **Sistema de Controle de Estoque**
+Sistema para gerenciamento de produtos e movimentações de estoque.
+Stack: Django, PostgreSQL
+
+🔹 **Flix API**
+API REST para gerenciamento de filmes utilizando Django REST Framework.
+
+## 🛠 Tecnologias
+
+Python • Django • Django REST Framework • PostgreSQL • Git • Linux
+
+## 📫 Contato
+
+LinkedIn:
+Email:
