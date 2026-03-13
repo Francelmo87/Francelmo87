@@ -1,34 +1,92 @@
-# 👋 Olá, eu sou Francelmo Sousa
+<h1 align="center">Francelmo Sousa</h1>
+<p align="center">
+Backend Developer | Python | Django | APIs | Automation
+</p>
 
-Desenvolvedor **Python Backend** com foco em **Django e APIs REST**.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Backend-blue">
+<img src="https://img.shields.io/badge/Django-Framework-green">
+<img src="https://img.shields.io/badge/Django%20REST-API-red">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue">
+<img src="https://img.shields.io/badge/Redis-Queue-red">
+<img src="https://img.shields.io/badge/Docker-Containers-blue">
+</p>
 
-Tenho experiência no desenvolvimento de aplicações completas utilizando:
+---
 
-* Python
-* Django
-* Django REST Framework
-* PostgreSQL
-* APIs REST
-* Automação com Python
+## About Me
 
-## 🚀 Projetos em destaque
+Backend developer focused on building scalable systems using **Python and Django**.
 
-🔹 **Sistema de Gestão de Contratos**
-Aplicação web para controle de contratos públicos baseada na Lei 14.133.
-Stack: Django, PostgreSQL
+- 8+ years studying Python and Django
+- Backend development and REST APIs
+- Business systems with Django
+- Automation using Python
+- Experience with PostgreSQL, Redis and Celery
 
-🔹 **Sistema de Controle de Estoque**
-Sistema para gerenciamento de produtos e movimentações de estoque.
-Stack: Django, PostgreSQL
+---
 
-🔹 **Flix API**
-API REST para gerenciamento de filmes utilizando Django REST Framework.
+## Featured Projects
 
-## 🛠 Tecnologias
+### Inventory Management System
+https://github.com/Francelmo87/estoque
 
-Python • Django • Django REST Framework • PostgreSQL • Git • Linux
+Inventory management system built with Django.
 
-## 📫 Contato
+Features:
+- Product management
+- Stock control
+- Authentication and permissions
 
-LinkedIn: www.linkedin.com/in/francelmo87
-Email: francelmo87@hotmail.com
+---
+
+### Contract Management System
+https://github.com/Francelmo87/contrato
+
+System designed to manage contract workflows.
+
+Features:
+- Contract lifecycle
+- Role-based access
+- Administrative management
+
+---
+
+### Movies API
+https://github.com/Francelmo87/flix_api_drf
+
+REST API built with Django REST Framework.
+
+Features:
+- API endpoints
+- Authentication
+- Data modeling
+- REST architecture
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Francelmo87&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francelmo87&layout=compact)
+
+---
+
+## Currently Studying
+
+- Advanced Django architecture
+- Celery and background workers
+- Automation systems with Python
+- AI integration in backend services
+
+---
+
+## Contact
+
+LinkedIn  
+Email  
+
+---
+
+Always open to collaborate on **Python backend projects**.
