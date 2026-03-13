@@ -1,6 +1,6 @@
 <h1 align="center">Francelmo Sousa</h1>
 <p align="center">
-Backend Developer | Python | Django | APIs | Automation
+Desenvolvedor Backend | Python | Django | APIs | Automação
 </p>
 
 <p align="center">
@@ -14,58 +14,61 @@ Backend Developer | Python | Django | APIs | Automation
 
 ---
 
-## About Me
+## Sobre mim
 
-Backend developer focused on building scalable systems using **Python and Django**.
+Desenvolvedor backend focado na criação de sistemas escaláveis utilizando **Python e Django**.
 
-- 8+ years studying Python and Django
-- Backend development and REST APIs
-- Business systems with Django
-- Automation using Python
-- Experience with PostgreSQL, Redis and Celery
+- 8+ anos estudando Python e Django  
+- Desenvolvimento de sistemas web e APIs REST  
+- Criação de sistemas de negócio com Django  
+- Automação de processos com Python  
+- Experiência com PostgreSQL, Redis e Celery  
 
 ---
 
-## Featured Projects
+## Projetos em Destaque
 
-### Inventory Management System
+### Sistema de Controle de Estoque
 https://github.com/Francelmo87/estoque
 
-Inventory management system built with Django.
+Sistema de gerenciamento de estoque desenvolvido com Django.
 
-Features:
-- Product management
-- Stock control
-- Authentication and permissions
+Funcionalidades:
+
+- Cadastro e gestão de produtos  
+- Controle de estoque  
+- Autenticação e permissões  
 
 ---
 
-### Contract Management System
+### Sistema de Gestão de Contratos
 https://github.com/Francelmo87/contrato
 
-System designed to manage contract workflows.
+Sistema desenvolvido para gerenciamento de contratos e fluxos de aprovação.
 
-Features:
-- Contract lifecycle
-- Role-based access
-- Administrative management
+Funcionalidades:
+
+- Ciclo de vida de contratos  
+- Controle de acesso por papéis  
+- Painel administrativo  
 
 ---
 
-### Movies API
+### API de Filmes
 https://github.com/Francelmo87/flix_api_drf
 
-REST API built with Django REST Framework.
+API REST construída utilizando Django REST Framework.
 
-Features:
-- API endpoints
-- Authentication
-- Data modeling
-- REST architecture
+Funcionalidades:
+
+- Endpoints REST  
+- Autenticação  
+- Modelagem de dados  
+- Arquitetura baseada em API  
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Francelmo87&show_icons=true&theme=tokyonight)
 
@@ -73,20 +76,21 @@ Features:
 
 ---
 
-## Currently Studying
+## Atualmente estudando
 
-- Advanced Django architecture
-- Celery and background workers
-- Automation systems with Python
-- AI integration in backend services
-
----
-
-## Contact
-
-LinkedIn  
-Email  
+- Arquitetura avançada com Django  
+- Processamento assíncrono com Celery  
+- Sistemas de automação com Python  
+- Integração de IA em sistemas backend  
 
 ---
 
-Always open to collaborate on **Python backend projects**.
+## Contato
+
+LinkedIn: www.linkedin.com/in/francelmo87
+
+Email: francelmo87@hotmail.com
+
+---
+
+Sempre aberto a colaborar em **projetos backend com Python**.
